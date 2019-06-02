@@ -1,8 +1,12 @@
-_created & maintained by [@clarecorthell](http://bit.ly/clarecorthelltwitter), founding partner of [Luminant Data Science Consulting](http://bit.ly/luminantdata)_
+_created & maintained by [@caseyrosengren](http://twitter.com/caseyrosengren), one of the founders of the [Gathering Lab](http://gatheringlab.com)_
 
-## The Open-Source Data Science Masters
+## The Open-Source Divinity School
 
-The open-source curriculum for learning Data Science. Foundational in both theory and technologies, the OSDSM breaks down the core competencies necessary to making use of data.
+OpenDivSchool (ODS) is a secular-friendly, open source resource for a modern education in divinity.
+
+Here, you can find an open-source curriculum for an alternative, secular-friendly divinity school education. We have reading lists, book notes, and guides on embarking on your own self-guided learning journey.
+
+Have something to contribute? [Shoot us an email](mailto:caseyrosengren+ods@gmail.com).
 
 ### Contents
 - [The Open-Source Data Science Masters](#the-open-source-data-science-masters)
