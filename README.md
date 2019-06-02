@@ -1,4 +1,4 @@
-_created & maintained by [@caseyrosengren](http://twitter.com/caseyrosengren), one of the founders of the [Gathering Lab](http://gatheringlab.com)_
+_created & maintained by [@caseyrosengren](http://twitter.com/caseyrosengren), mad scientist and founding partner at the [Gathering Lab](http://gatheringlab.com)_
 
 ## The Open-Source Divinity School
 
