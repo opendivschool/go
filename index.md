@@ -1,24 +1,27 @@
-_created & maintained by [@clarecorthell](http://bit.ly/clarecorthelltwitter), founding partner of [Luminant Data Science Consulting](http://bit.ly/luminantdata)_
+_created & maintained by [@caseyrosengren](http://twitter.com/caseyrosengren), one of the founders of the [Gathering Lab](http://gatheringlab.com)_
 
-## The Open-Source Data Science Masters
+## The Open-Source Divinity School
 
-The open-source curriculum for learning Data Science. Foundational in both theory and technologies, the OSDSM breaks down the core competencies necessary to making use of data.
+OpenDivSchool (ODS) is a secular-friendly, open source resource for a modern education in divinity.
 
-### The Internet is Your Oyster
+Here, you can find an open-source curriculum for an alternative, secular-friendly divinity school education. We have reading lists, book notes, and guides on embarking on your own self-guided learning journey.
 
-With Coursera, ebooks, Stack Overflow, and GitHub -- all free and open -- how can you afford not to take advantage of an open source education?
+Have something to contribute? [Shoot us an email](mailto:caseyrosengren+ods@gmail.com).
 
 ### The Motivation
 
-We need more Data Scientists.
+The world of religion and spirituality is changing. The world needs divinity educaiton adapted for modern times.
 
-> ...by 2018 the United States will experience a shortage of 190,000 skilled data scientists, and 1.5 million managers and analysts capable of reaping actionable insights from the big data deluge.
+Traditional divinity school education tends to be:
 
--- [McKinsey Report Highlights the Impending Data Scientist Shortage](http://bit.ly/datascienceshortage) 23 July 2013
+* highly focused on theory rather than practice.
+* expensive, and full-time.
+* meant to funnel people toward the clergy.
+* uninformed by major trends, like the [rise of the "religious nones"](https://www.pewresearch.org/fact-tank/2015/05/13/a-closer-look-at-americas-rapidly-growing-religious-nones/) and the ["unbundling of religion"](https://bigthink.com/offwhite-papers/the-great-unbundling-will-organized-religion-go-the-same-way-as-cable-tv).
 
-> There are little to no Data Scientists with 5 years experience, because the job simply did not exist.
+> ...one-fifth of the U.S. public – and a third of adults under 30 – are religiously unaffiliated today, the highest percentages ever in Pew Research Center polling.
 
--- David Hardtke "How To Hire A Data Scientist" 13 Nov 2012
+Additionally, 
 
 ### An Academic Shortfall
 
