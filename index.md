@@ -17,23 +17,19 @@ Traditional divinity school education tends to be:
 * highly focused on theory rather than practice.
 * expensive, and full-time.
 * meant to funnel people toward the clergy.
-* uninformed by major trends, like the [rise of the "religious nones"](https://www.pewresearch.org/fact-tank/2015/05/13/a-closer-look-at-americas-rapidly-growing-religious-nones/) and the ["unbundling of religion"](https://bigthink.com/offwhite-papers/the-great-unbundling-will-organized-religion-go-the-same-way-as-cable-tv).
+* uninformed by major trends like the [rise of the "religious nones"](https://www.pewresearch.org/fact-tank/2015/05/13/a-closer-look-at-americas-rapidly-growing-religious-nones/) and the ["unbundling of religion"](https://bigthink.com/offwhite-papers/the-great-unbundling-will-organized-religion-go-the-same-way-as-cable-tv).
 
 > ...one-fifth of the U.S. public – and a third of adults under 30 – are religiously unaffiliated today, the highest percentages ever in Pew Research Center polling.
 
-Additionally, 
-
 ### An Academic Shortfall
 
-Classic academic conduits aren't providing Data Scientists -- this talent gap will be closed differently.
+While interesting research, like the [How We Gather](https://www.howwegather.org/) project, have come out of traditional divinity schools, much of divinity school education remains rooted in the past. 
 
-> **Academic credentials are important but not necessary for high-quality data science.** The core aptitudes – curiosity, intellectual agility, statistical fluency, research stamina, scientific rigor, skeptical nature – that distinguish the best data scientists are widely distributed throughout the population.
+> **Academic credentials are important but not necessary for people doing divinity work outside of traditional religious institutions.** Secular community-builders are increasingly finding themselves in pastoral roles, and these roles require no ordainment, but may still benefit from deepening the theoretical framework around their work and their own spiritual development. 
 
-> We’re likely to see more uncredentialed, inexperienced individuals try their hands at data science, **bootstrapping their skills on the open-source ecosystem and using the diversity of modeling tools available.** Just as data-science platforms and tools are proliferating through the magic of open source, big data’s data-scientist pool will as well.
+> We’re likely to see more uncredentialed, inexperienced individuals try their hands at building community and helping people make meaning of their lives. As people find more connection and belonging from these upstart communities, the organizers themselves will need more support in their growth as community-builders and gatherers.
 
-> And there’s yet another trend that will alleviate any talent gap: the democratization of data science. While I agree wholeheartedly with Raden’s statement that “the crème-de-la-crème of data scientists will fill roles in academia, technology vendors, Wall Street, research and government,” I think he’s understating the extent to which **autodidacts – the self-taught, uncredentialed, data-passionate people – will come to play a significant role in many organizations’ data science initiatives.**
-
--- James Kobielus, [Closing the Talent Gap](http://bit.ly/closingthetalentgap) 17 Jan 2013
+> While higher education has moved increasingly toward online, open courses, much of the divinity world still remains hidden away in prestigious institutions, or siloed away in disparate places around the Internet. There is no one resource to look to for a progressive, secular-friendly, modern divinity education. 
 
 ### Ready?
 
